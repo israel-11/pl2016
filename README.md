@@ -69,7 +69,6 @@ Lets say: ‘ Plot x square from -3 to 3’.
 
 The output would look like: 
 ![alt tag](https://qph.ec.quoracdn.net/main-qimg-ca117e2a54324d3867aafa21c612c006?convert_to_webp=true)
-#### X squared from -3 to 3
 
 
 ##Implementation requirements and tools 
