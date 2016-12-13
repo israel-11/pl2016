@@ -1,6 +1,6 @@
 # Live Plot
 
-Introduction
+##Introduction
 
 
 Nowadays almost every studies requires collecting, processing, and analyzing massive amounts of data using graphs. Graphing, or visualizing, your data is important to any data analysis, and should always occur before the use of model building or statistical tests. 
@@ -26,7 +26,7 @@ The new language will be implemented using python and a python parser. Python ha
 
 
 
-Language features 
+##Language features 
 
 
 Some of the basic features the language will provide are: 
@@ -62,7 +62,7 @@ User will be able to specify the domain of the function by saying, for example:
 
 
 
-Example of the Program
+##Example of the Program
  When the program start, you will be asked to say something.
 Lets say: ‘ Plot x square from -50 to 50’.
 
@@ -83,7 +83,7 @@ Matplotlib
 
 
 
-Installing pre-built packages for Speech Recognition:
+###Installing pre-built packages for Speech Recognition:
 
 
 This is the installation guide for Ubuntu Linux. But this will probably work on other platforms is well. You will need to install a few packages: PyAudio, PortAudio and SpeechRecognition. PyAudio 0.2.9 is required and you may need to compile that manually.
@@ -100,18 +100,18 @@ sudo apt-get install libportaudio0 libportaudio2 libportaudiocpp0 portaudio19-de
 sudo pip3 install SpeechRecognition
 
 
-Installing pre-built packages for Matplotlib:
+###Installing pre-built packages for Matplotlib:
 Most platforms : scientific Python distributions
 The first option is to use one of the pre-packaged python distributions that already provide matplotlib built-in. The Continuum.io Python distribution (Anaconda or miniconda) and the Enthought distribution (Canopy) are both excellent choices that “just work” out of the box for Windows, OSX and common Linux platforms. Both of these distributions include matplotlib and lots of other useful tools. Another excellent alternative for Windows users is Python (x, y) .
 
 
-Linux : using your package manager
+###Linux : using your package manager
 If you are on Linux, you might prefer to use your package manager. matplotlib is packaged for almost every major Linux distribution.
 Debian / Ubuntu : sudo apt-get install python-matplotlib
 Fedora / Redhat : sudo yum install python-matplotlib
-Mac OSX : using pip
+###Mac OSX : using pip
 If you are on Mac OSX you can probably install matplotlib binaries using the standard Python installation program pip.
-Windows
+###Windows
 If you don’t already have Python installed, we recommend using one of the scipy-stack compatible Python distributions such as WinPython, Python(x,y), Enthought Canopy, or Continuum Anaconda, which have matplotlib and many of its dependencies, plus other useful packages, pre installed.
 For standard Python installations you will also need to install compatible versions of setuptools, numpy, python-dateutil, pytz, pyparsing, and cyclerin addition to matplotlib.
 For Python 3.5 the Visual C++ Redistributable for Visual Studio 2015 needs to be installed. In case Python 2.7 to 3.4 are not installed for all users (not the default), the Microsoft Visual C++ 2008 ( 64 bit or 32 bit for Python 2.7 to 3.2) or Microsoft Visual C++ 2010 ( 64 bit or 32 bit for Python 3.3 and 3.4) redistributable packages need to be installed.
