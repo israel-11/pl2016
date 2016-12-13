@@ -64,12 +64,15 @@ User will be able to specify the domain of the function by saying, for example:
 
 ##Example of the Program
  When the program start, you will be asked to say something.
-Lets say: ‘ Plot x square from -50 to 50’.
+Lets say: ‘ Plot x square from -3 to 3’.
 
 
 The output would look like: 
 ![alt tag](https://qph.ec.quoracdn.net/main-qimg-ca117e2a54324d3867aafa21c612c006?convert_to_webp=true)
-Implementation requirements and tools 
+#### X squared from -3 to 3
+
+
+##Implementation requirements and tools 
 
 
 Tools/Libraries
