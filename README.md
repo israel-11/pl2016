@@ -121,3 +121,6 @@ Matplotlib depends on Pillow for reading and saving JPEG, BMP, and TIFF image fi
 The following backends should work out of the box: agg, tkagg, ps, pdf and svg. For other backends you may need to install pycairo, PyQt4, PyQt5,PySide, wxPython, PyGTK, Tornado, or GhostScript.
 TkAgg is probably the best backend for interactive use from the standard Python shell or IPython. It is enabled as the default backend for the official binaries. GTK3 is not supported on Windows.
 The Windows installers (*.exe) and wheels (*.whl) on the PyPI download page do not contain test data or example code. If you want to try the many demos that come in the matplotlib source distribution, download the *.tar.gz file and look in the examples subdirectory. To run the test suite, copy the libmatplotlibtests and libmpl_toolkitstests directories from the source distribution to sys.prefixLibsite-packagesmatplotlib and sys.prefixLibsite-packagesmpl_toolkits respectively, and install nose, mock, Pillow, MiKTeX, GhostScript, ffmpeg, avconv, mencoder, ImageMagick, and Inkscape.
+
+##LivePlot Demo
+https://www.emaze.com/@AWQCLCTL/untitled-copy1
